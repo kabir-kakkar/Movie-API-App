@@ -24,15 +24,15 @@ How to use this Project?
 1. Clone this repository.
 2. Install Node, Express via:
 
-  '''
+```
       $ npm install --save express ejs request
-  '''
+```
 
 3. Start the project by writing:
 
-  '''
+```
       $ node app.js
-  '''
+```
   
   Note
   =====================
