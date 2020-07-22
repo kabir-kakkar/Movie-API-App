@@ -15,9 +15,7 @@ Then it will list the movies in accordance with the title name and year.
 
 What is the API used here ?
 ====================
-We use a The Open Movie Data Base Movie API
-
-http://www.omdbapi.com/?s=guardians+of+the+galaxy&apikey=thewdb
+We use [The Open Movie Data Base Movie API](http://www.omdbapi.com/?s=guardians+of+the+galaxy&apikey=thewdb)
 
 How to use this Project?
 =====================
